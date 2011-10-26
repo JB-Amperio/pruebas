@@ -5,7 +5,7 @@
 #include "iostream.h"
 #include "stdlib.h"
 
-//The Candyman can :) 
+//The Candyman can :)  Tururururu
 int main(int argc, char* argv[])
 {	
 	int n,y,x;
